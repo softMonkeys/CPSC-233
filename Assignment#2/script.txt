@@ -1,0 +1,60 @@
+java TestCarSystem
+----Test Code # 1----
+Please enter make/model:
+BMW
+Please enter car's yearly make(1886-2016):
+2012
+Please enter color:
+WHITE
+Please enter make/model:
+GLK
+Please enter car's yearly make(1886-2016):
+2016
+Please enter color:
+GREEN
+Please enter make/model:
+MAZI
+Please enter car's yearly make(1886-2016):
+1996
+Please enter color:
+BROWN
+----Test Code # 2----
+--Fourth car--
+Please enter make/model:
+NIW
+Please enter car's yearly make(1886-2016):
+2000
+Please enter color:
+WHITE
+----Test Code # 3----
+Please enter the speed of 1/3 cars (The maximum speed is 200km/h):
+60
+Please enter the speed of 2/3 cars (The maximum speed is 200km/h):
+70
+Please enter the speed of 3/3 cars (The maximum speed is 200km/h):
+80
+----Test Code # 4----
+Active instances: 4
+Car make/model: BMW
+Year: 2012
+Color: WHITE
+Car make/model: GLK
+Year: 2016
+Color: GREEN
+Car make/model: MAZI
+Year: 1996
+Color: BROWN
+Car make/model: NIW
+Year: 2000
+Color: WHITE
+----Test Code # 5----
+Generating random speed....
+The last car is moving at 156km/h
+Stopping the first car....
+The speed of the first car is now 0.0km/h
+----Test Code # 6----
+Please enter the distance of thr car traveled:
+70
+Exception in thread "main" java.lang.NullPointerException
+	at Car.CalculateJourney(Car.java:127)
+	at TestCarSystem.main(TestCarSystem.java:199)

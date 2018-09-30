@@ -1,0 +1,70 @@
+//Compilation
+javac Salaries.java
+java Salaries
+
+//Sample
+CBK
+10000
+BFK
+20000
+IWE
+30000
+OQW
+40000
+QWE
+53000
+JSE
+54000
+QWE
+70000
+ERS
+71000
+HCN
+90000
+GVB
+96231
+OIU
+96231
+OIU
+96288
+IMS
+110000
+WES
+125023
+QWR
+-1
+
+//The result
+********************************************************************************
+NAME:                            SALARY:
+
+CBK                           $10000.0
+BFK                           $20000.0
+IWE                           $30000.0
+OQW                           $40000.0
+QWE                           $53000.0
+JSE                           $54000.0
+QWE                           $70000.0
+ERS                           $71000.0
+HCN                           $90000.0
+GVB                           $96231.0
+OIU                           $96231.0
+OIU                           $96288.0
+IMS                           $110000.0
+WES                           $125023.0
+
+*********************************************************************************
+Total salaries entered: 14
+Minimum salary: $10000.0
+Maximum salary: $125023.0
+Sum of salaries: $961773.0
+********************************************************************************
+|   DEVELOPERS' LEVEL OF SENIORITY  | NUMBER(S) |         AVERAGE($)       |
+|___________________________________|___________|__________________________|
+|       Internship Developer        |    4      |  Average salary: $25000.0|
+|           Junior Developer        |    2      |  Average salary: $53500.0|
+|             Developer             |    2      |  Average salary: $70500.0|
+|           Senior Developer        |    1      |  Average salary: $90000.0|
+|      Project Lead Developer       |    3      |  Average salary: $96250.0|
+|        Technical Developer        |    2      |  Average salary: $117511.5|
+********************************************************************************

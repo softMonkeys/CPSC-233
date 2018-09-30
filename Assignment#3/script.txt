@@ -1,0 +1,367 @@
+[benkun.chen@zone39-eb Ass#3]$ javac *.java
+[benkun.chen@zone39-eb Ass#3]$ java Test
+Type: Car
+Wheels: 4
+Speed: 0.0
+Maximum passenger: 4
+Current passenger: 0
+Can be driven: no
+Door number: 4
+Engine power: 2200 HP
+Model: ford
+Color: red
+
+Type: Car
+Wheels: 4
+Speed: 0.0
+Maximum passenger: 2
+Current passenger: 0
+Can be driven: no
+Door number: 2
+Engine power: 4500 HP
+Model: Challenger
+Color: black
+
+Type: Bike
+Wheels: 2
+Speed: 0.0
+Maximum passenger: 1
+Current passenger: 0
+Can be driven: no
+Weight: 20.0 kg
+Frame Material: steel
+
+Type: Bike
+Wheels: 2
+Speed: 0.0
+Maximum passenger: 1
+Current passenger: 0
+Can be driven: no
+Weight: 19.0 kg
+Frame Material: Carbon
+
+Type: Truck
+Wheels: 4
+Speed: 0.0
+Maximum passenger: 2
+Current passenger: 0
+Can be driven: no
+Door number: 4
+Engine power: 5000 HP
+Model: ford
+Color: red
+Size: 13 square meter
+
+Type: Truck
+Wheels: 4
+Speed: 0.0
+Maximum passenger: 3
+Current passenger: 0
+Can be driven: no
+Door number: 2
+Engine power: 4000 HP
+Model: CAT
+Color: Gold
+Size: 20 square meter
+
+Type: Bus
+Wheels: 4
+Speed: 0.0
+Maximum passenger: 2
+Current passenger: 0
+Can be driven: no
+Door number: 4
+Engine power: 4500 HP
+Seats avalibilty: Yes
+
+Type: Bus
+Wheels: 4
+Speed: 0.0
+Maximum passenger: 20
+Current passenger: 0
+Can be driven: no
+Door number: 2
+Engine power: 1600 HP
+Seats avalibilty: No
+
+Type: Passenger
+Passenger Name: Meme
+Driver or Passenger: driver
+Driving Class: 1
+
+Type: Passenger
+Passenger Name: Waya
+Driver or Passenger: driver
+Driving Class: 1
+
+Type: Passenger
+Passenger Name: Gaqe
+Driver or Passenger: driver
+Driving Class: 5
+
+Type: Passenger
+Passenger Name: Mopu
+Driver or Passenger: driver
+Driving Class: 7
+
+Type: Passenger
+Passenger Name: Wuhi
+Driver or Passenger: driver
+Driving Class: 1
+
+Type: Passenger
+Passenger Name: Nete
+Driver or Passenger: driver
+Driving Class: 5
+
+Type: Passenger
+Passenger Name: Xuqa
+Driver or Passenger: driver
+Driving Class: 7
+
+Type: Passenger
+Passenger Name: Kiwu
+Driver or Passenger: passenger
+Driving Class: -1
+
+Type: Passenger
+Passenger Name: Vaja
+Driver or Passenger: passenger
+Driving Class: -1
+
+Type: Passenger
+Passenger Name: Tuhu
+Driver or Passenger: passenger
+Driving Class: -1
+
+Type: Passenger
+Passenger Name: Mumi
+Driver or Passenger: passenger
+Driving Class: -1
+
+Type: Passenger
+Passenger Name: Huwe
+Driver or Passenger: passenger
+Driving Class: -1
+
+Type: Passenger
+Passenger Name: Micu
+Driver or Passenger: passenger
+Driving Class: -1
+
+Type: Passenger
+Passenger Name: Moqa
+Driver or Passenger: passenger
+Driving Class: -1
+
+Type: Passenger
+Passenger Name: Wemi
+Driver or Passenger: passenger
+Driving Class: -1
+
+Type: Passenger
+Passenger Name: Weba
+Driver or Passenger: passenger
+Driving Class: -1
+
+Type: Passenger
+Passenger Name: Xabe
+Driver or Passenger: passenger
+Driving Class: -1
+
+Type: Passenger
+Passenger Name: Lese
+Driver or Passenger: passenger
+Driving Class: -1
+
+Type: Passenger
+Passenger Name: Meba
+Driver or Passenger: passenger
+Driving Class: -1
+
+Type: Passenger
+Passenger Name: Kahe
+Driver or Passenger: passenger
+Driving Class: -1
+
+Type: Passenger
+Passenger Name: Xebu
+Driver or Passenger: passenger
+Driving Class: -1
+
+Type: Passenger
+Passenger Name: Rosi
+Driver or Passenger: passenger
+Driving Class: -1
+
+Type: Car
+Wheels: 4
+Speed: 0.0
+Maximum passenger: 4
+Current passenger: 1
+Can be driven: yes
+Door number: 4
+Engine power: 2200 HP
+Model: ford
+Color: red
+
+Type: Car
+Wheels: 4
+Speed: 0.0
+Maximum passenger: 2
+Current passenger: 1
+Can be driven: yes
+Door number: 2
+Engine power: 4500 HP
+Model: Challenger
+Color: black
+
+Type: Bike
+Wheels: 2
+Speed: 0.0
+Maximum passenger: 1
+Current passenger: 1
+Can be driven: yes
+Weight: 20.0 kg
+Frame Material: steel
+
+Type: Bike
+Wheels: 2
+Speed: 0.0
+Maximum passenger: 1
+Current passenger: 1
+Can be driven: yes
+Weight: 19.0 kg
+Frame Material: Carbon
+
+Type: Truck
+Wheels: 4
+Speed: 0.0
+Maximum passenger: 2
+Current passenger: 1
+Can be driven: yes
+Door number: 4
+Engine power: 5000 HP
+Model: ford
+Color: red
+Size: 13 square meter
+
+Type: Truck
+Wheels: 4
+Speed: 0.0
+Maximum passenger: 3
+Current passenger: 0
+Can be driven: no
+Door number: 2
+Engine power: 4000 HP
+Model: CAT
+Color: Gold
+Size: 20 square meter
+
+Type: Bus
+Wheels: 4
+Speed: 0.0
+Maximum passenger: 2
+Current passenger: 1
+Can be driven: yes
+Door number: 4
+Engine power: 4500 HP
+Seats avalibilty: Yes
+
+Type: Bus
+Wheels: 4
+Speed: 0.0
+Maximum passenger: 20
+Current passenger: 0
+Can be driven: no
+Door number: 2
+Engine power: 1600 HP
+Seats avalibilty: No
+
+Maximum speed: 96.0km/h     Vehicle with max speed:
+
+Type: Bus
+Wheels: 4
+Speed: 96.0
+Maximum passenger: 2
+Current passenger: 2
+Can be driven: yes
+Door number: 4
+Engine power: 4500 HP
+Seats avalibilty: Yes
+Minimum speed: 20.0km/h     Vehicle with min speed:
+
+Type: Bike
+Wheels: 2
+Speed: 20.0
+Maximum passenger: 1
+Current passenger: 1
+Can be driven: yes
+Weight: 20.0 kg
+Frame Material: steel
+
+Type: Car
+Wheels: 4
+Speed: 40.0
+Maximum passenger: 4
+Current passenger: 4
+Can be driven: yes
+Door number: 4
+Engine power: 2200 HP
+Model: ford
+Color: red
+
+Type: Car
+Wheels: 4
+Speed: 80.0
+Maximum passenger: 2
+Current passenger: 2
+Can be driven: yes
+Door number: 2
+Engine power: 4500 HP
+Model: Challenger
+Color: black
+
+Type: Bike
+Wheels: 2
+Speed: 20.0
+Maximum passenger: 1
+Current passenger: 1
+Can be driven: yes
+Weight: 20.0 kg
+Frame Material: steel
+
+Type: Bike
+Wheels: 2
+Speed: 20.0
+Maximum passenger: 1
+Current passenger: 1
+Can be driven: yes
+Weight: 19.0 kg
+Frame Material: Carbon
+
+Type: Truck
+Wheels: 4
+Speed: 80.0
+Maximum passenger: 2
+Current passenger: 2
+Can be driven: yes
+Door number: 4
+Engine power: 5000 HP
+Model: ford
+Color: red
+Size: 13 square meter
+
+Type: Bus
+Wheels: 4
+Speed: 96.0
+Maximum passenger: 2
+Current passenger: 2
+Can be driven: yes
+Door number: 4
+Engine power: 4500 HP
+Seats avalibilty: Yes
+
+null
+
+null
